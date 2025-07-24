@@ -9,7 +9,7 @@ Interaktywny dashboard sprzedażowy stworzony na podstawie danych z modelu **Adv
 - Sprzedaż wg krajów
 - Analiza sprzedaży wg produktów i kategorii
 
-![Dashboard preview](dashboard/dashboard_preview.png)
+![Dashboard preview](main/dashboard_preview.png)
 
 ## Technologie
 - Power BI
